@@ -1,3 +1,7 @@
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bayuajitalenavi.bayuajitalenavi)
+
 - 👋 Hi, I’m @bayuajitalenavi
 - 👀 I’m interested in Frontend Web Developer
 <!--- - 🌱 I’m currently learning ...
